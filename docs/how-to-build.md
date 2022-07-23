@@ -1,6 +1,12 @@
 # How to build
 
 * Install Ubuntu 22.04, ideally in a VM. We will run everything inside that system.
+  * If you like GUI, try xubuntu, lubuntu or ubuntu-mate.
+  * Select minimal installation during setup.
+  * Minimum specs:
+    * HDD: recommended minimum of ~32GB with GUI + 2.2GB for each project / build directory
+    * CPU: recommended at least 2 cores
+    * RAM: recommended minimum of 4GB
 
 
 ## Install docker
