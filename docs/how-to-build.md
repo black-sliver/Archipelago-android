@@ -84,7 +84,7 @@ buildozer-r23b init
     # after update_ran = getattr(...) add
     try:
         import android
-      update_ran = True
+        update_ran = True
     except:
         pass
     ```
